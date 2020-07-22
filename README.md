@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there 👋, my name is Giovanny and i am software developer 
 
-<!--
-**giovannyreyeso/giovannyreyeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as software architect at ConCrédito
+- 🌱 I’m currently learning golang
+- ⚡ Creator of Code Reminder ( an Visual Code Extension) [Link](https://github.com/giovannyreyeso/code-reminder)
+- 📫 How to reach me: giovannyreyeso@gmail.com
 
-Here are some ideas to get you started:
+### ☁️ Cloud services
+- GCP
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Devops
+- Docker
+- Kubernetes
+- Bash scripting
+- Gitlab CI / CD
+
+### 📗 Frameworks / Library
+
+Backend
+- Java + Spring
+- Javascript + Express
+- Typescript + NestJS
+- Python + Flask
+
+Frontend
+- Angular 1.x
+- Angular 2.x
+- React + Redux
+
+### ⚡ Lenguages:
+
+Backend: 
+- Java
+- Javascript with Node Runtime
+- Typescript
+- Python
+- Golang
+- C#
+
+Frontent
+- React
+- Angular
+
+### Databases:
+- MySQL
+- SQL Server
+- MongoDB
+- Elasticsearch
+
+### Messages Broker
+- RabbitMQ
