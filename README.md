@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Giovanny and i am software developer 
 
 - 🔭 I’m currently working as software architect at ConCrédito
-- 🌱 I’m currently learning golang
 - ⚡ Creator of Code Reminder ( an Visual Code Extension) [Link](https://github.com/giovannyreyeso/code-reminder)
 - ⚡ Creator of Pipeline Watcher ( an NodeJS API for watch gitlab pipelines and send messag) [Link](https://github.com/giovannyreyeso/pipeline-watcher)
 - ⚡ Creator of C# Class for send Push notification to Firebase [Link](https://github.com/giovannyreyeso/NetFireBasePush)
@@ -16,6 +15,7 @@
 - Kubernetes
 - Bash scripting
 - Gitlab CI / CD
+- Terraform <new> !
 
 ### 📗 Frameworks / Library
 
