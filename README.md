@@ -1,54 +1,66 @@
-### Hi there 👋, my name is Giovanny and i am software developer 
+### Hi there 👋, my name is Giovanny, and I am a software developer 
 
-- 🔭 I’m currently working as software architect at ConCrédito
-- ⚡ Creator of Code Reminder ( an Visual Code Extension) [Link](https://github.com/giovannyreyeso/code-reminder)
-- ⚡ Creator of Pipeline Watcher ( an NodeJS API for watch gitlab pipelines and send messag) [Link](https://github.com/giovannyreyeso/pipeline-watcher)
-- ⚡ Creator of C# Class for send Push notification to Firebase [Link](https://github.com/giovannyreyeso/NetFireBasePush)
-- 📫 How to reach me: giovannyreyeso@gmail.com
+- 🔭 **Currently working as DevOps Manager at ConCrédito**
+- 🌐 **Founder & CTO of [Kami](https://landing.kami.lat)** – A platform to simplify vehicle monitoring through GPS
+- ⚡ **Creator of [Code Reminder](https://github.com/giovannyreyeso/code-reminder)** – a Visual Studio Code extension
+- ⚡ **Creator of [Pipeline Watcher](https://github.com/giovannyreyeso/pipeline-watcher)** – a NodeJS API to monitor GitLab pipelines and send messages
+- ⚡ **Creator of [NetFireBasePush](https://github.com/giovannyreyeso/NetFireBasePush)** – a C# class to send push notifications to Firebase
+- 📫 **How to reach me**: giovannyreyeso@gmail.com
 
-### ☁️ Cloud services
-- GCP
-- AWS
+---
 
-### 💻 Devops
+### ☁️ Cloud Services
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+
+---
+
+### 💻 DevOps Skills
 - Docker
 - Kubernetes
 - Bash scripting
-- Gitlab CI / CD
-- Terraform <new> !
+- GitLab CI/CD
+- Terraform 🚀
 
-### 📗 Frameworks / Library
+---
 
-Backend
+### 📗 Frameworks / Libraries
+
+**Backend**
 - Java + Spring
-- Javascript + Express
-- Typescript + NestJS
+- JavaScript + Express
+- TypeScript + NestJS
 - Python + Flask
 
-Frontend
-- Angular 1.x
-- Angular 2.x
+**Frontend**
+- Angular 1.x / 2.x
 - React + Redux
 
-### ⚡ Lenguages:
+---
 
-Backend: 
+### ⚡ Languages
+
+**Backend**
 - Java
-- Javascript with Node Runtime
-- Typescript
+- JavaScript (Node.js runtime)
+- TypeScript
 - Python
-- Golang
+- Go (Golang)
 - C#
 
-Frontent
+**Frontend**
 - React
 - Angular
 
-### Databases:
+---
+
+### Databases
 - MySQL
 - SQL Server
 - MongoDB
 - Elasticsearch
 
-### Messages Broker
+---
+
+### Message Brokers
 - RabbitMQ
